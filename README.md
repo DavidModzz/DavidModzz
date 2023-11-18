@@ -5,6 +5,11 @@
       <a href="https://github.com/DavidModzz">DavidModzz</a>
 </h1>
 
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nodejs projects
+- 📫 How to reach me Ig: @_alexanderavalos
+
 ***
 
 <div align="center" width="40">
@@ -36,12 +41,5 @@
     <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=DavidModzz&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF&card_width=695" />
   </a>
   </detalles>
-***
-
-- 👋 Hi, I’m @DavidModzz
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me Ig: @_alexanderavalos
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidModzz&show_icons=true&theme=aura)
