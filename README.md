@@ -18,6 +18,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/MGalaCyber">
+    <img src="https://komarev.com/ghpvc/?username=DavidModzz&style=for-the-badge&label=VISTAS&color=6e57ff" alt="DavidModzz" />
+  </a>
+</p>
+
 ***
 
 - 👨‍💻 All of my projects are available at [GalaCyber Projects](https://github.com/DavidModzz?tab=repositories)
