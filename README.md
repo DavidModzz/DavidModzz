@@ -26,7 +26,7 @@
 
 ***
 
-- 👨‍💻 All of my projects are available at [GalaCyber Projects](https://github.com/DavidModzz?tab=repositories)
+- 👨‍💻 All of my projects are available at [DavidModzz Projects](https://github.com/DavidModzz?tab=repositories)
 
 ***
 
