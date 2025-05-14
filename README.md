@@ -8,7 +8,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nodejs projects
-- 📫 How to reach me Ig: @_alexanderavalos
+- 📫 How to reach me Tg: t.me/@David_132
 
 ***
 
