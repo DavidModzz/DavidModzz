@@ -1,16 +1,3 @@
-<h1 align="center">
-            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-      </a>
-      Hi, I'm
-      <a href="https://github.com/DavidModzz">DavidModzz</a>
-</h1>
-
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nodejs projects
-- 📫 How to reach me Tg: t.me/@David_132
-
-***
 
 <div align="center" width="40">
 
@@ -19,16 +6,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/MGalaCyber">
+  <a href="https://github.com/DavidModzz">
     <img src="https://komarev.com/ghpvc/?username=DavidModzz&style=for-the-badge&label=VISTAS&color=6e57ff" alt="DavidModzz" />
   </a>
 </p>
-
-***
-
-- 👨‍💻 All of my projects are available at [DavidModzz Projects](https://github.com/DavidModzz?tab=repositories)
-
-***
 
 <details>
 <summary>Click Here for My Github Stats</summary>
