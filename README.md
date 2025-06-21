@@ -24,7 +24,7 @@
   <a href="https://github.com/davidmodzz">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidmodzz&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&card_width=900px&layout=compact" />
   </a>
-  <a href="https://github.com/MGalaCyber">
+  <a href="https://github.com/DavidModzz">
     <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=DavidModzz&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF&card_width=695" />
   </a>
   </detalles>
